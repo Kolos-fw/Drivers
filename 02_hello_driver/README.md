@@ -23,6 +23,7 @@
 
 **1. Сборка модуля:**
 ```bash
+cd 02_hello_driver
 make
 sudo insmod hello.ko
 ls -l /dev/my_hello
